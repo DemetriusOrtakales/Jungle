@@ -1,0 +1,17 @@
+
+# MacOS Finder
+.DS_Store
+
+# XCode
+xcuserdata/
+*.xcworkspace
+*.xcodeproj
+
+# Swift Package Manager
+ Packages/
+ Package.pins
+ Package.resolved
+
+
+# Firebase
+GoogleService-Info.plist
