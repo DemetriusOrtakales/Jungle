@@ -19,6 +19,7 @@ struct ProfileView: View {
             NavigationView {
                 ScrollView {
                     VStack(spacing: 32) {
+                        
                         ProfileHeaderView(viewModel: viewModel)
                         
                         PostGridView(config: .profile(user.id ?? ""))
