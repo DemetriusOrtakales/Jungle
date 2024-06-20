@@ -5,7 +5,7 @@
 # XCode
 xcuserdata/
 *.xcworkspace
-*.xcodeproj
+
 
 # Swift Package Manager
  Packages/
